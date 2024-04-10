@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-<b>Live URL:</b> multi-step-form-on-netlify.netlify.app
+<b>Live URL:</b> multistep-form-on-netlify.netlify.app
 
 ## Available Scripts
 
