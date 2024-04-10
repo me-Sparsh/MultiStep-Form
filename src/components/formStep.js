@@ -1,5 +1,5 @@
 import React, {useState, useEffect} from 'react';
-import FormRadioOption from './form1RadioOptions';
+import FormRadioOption from './formRadioOptions';
 import Step6Label from './step6Label';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faAngleLeft } from '@fortawesome/free-solid-svg-icons';
